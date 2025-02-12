@@ -24,6 +24,8 @@ fig1.show()
 fig2 = px.bar(df, x='l1', y='price', title='Customer Segmentation by Location')
 fig2.show()
 
+
+
 # Database Connection to PostgreSQL
 username = 'postgres'
 password = '123'
